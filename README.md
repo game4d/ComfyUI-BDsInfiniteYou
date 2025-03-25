@@ -4,6 +4,8 @@ ComfyUI custom_node for <a href="https://github.com/bytedance/InfiniteYou">ByteD
 # Example workflows
 ![image](assets/workflow.png)
 
+For detailed usage instructions of the model, please go <a href="https://github.com/bytedance/InfiniteYou">here</a>.
+
 # Resources
 The model used will be automatically downloaded to the ComfyUI/models/InfiniteYou and ComfyUI/models/FLUX.1-dev directories
 
