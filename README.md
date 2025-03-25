@@ -1,7 +1,7 @@
 # Overview
-ComfyUI custom_node for ByteDance's InfiniteYou
+ComfyUI custom_node for <a href="https://github.com/bytedance/InfiniteYou">ByteDance's InfiniteYou</a>.
 
-# Workflows
+# Example workflows
 ![image](assets/workflow.png)
 
 # Resources
